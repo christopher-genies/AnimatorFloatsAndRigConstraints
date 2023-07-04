@@ -278,7 +278,7 @@ MonoBehaviour:
   skinnedMeshRenderer: {fileID: 318770380}
   floatParameterName: upperArmMuscleFlex
   blendShapeName: bicepBulge.Arm1
-  useLateUpdate: 1
+  useLateUpdate: 0
 --- !u!95 &326126505
 Animator:
   serializedVersion: 5
